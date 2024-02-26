@@ -1,0 +1,106 @@
+{
+    "userName": "akash_anand",
+    "name": "Akash Anand",
+    "email": "aanad@anviam.com",
+    "followers": 2000,
+    "following": 100,
+    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+    "posts": [
+        {
+            "postType": "videos",
+            "albumId": 100,
+            "id": 4989,
+            "title": "officiis cum occaecati quaerat amet enim dignissimos",
+            "url": "https://player.vimeo.com/external/572511554.hd.mp4?s=5b9f6651a6ed7ec7c9e054d7a3fedb2b4f79b99b&profile_id=174&oauth2_token_id=57447761",
+            "thumbnailUrl": "https://via.placeholder.com/150/e21cb"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4990,
+            "title": "beatae dicta et odio sed ipsa et perferendis nihil",
+            "url": "https://plus.unsplash.com/premium_photo-1680740103993-21639956f3f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FtcGxlfGVufDB8fDB8fHww",
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1680740103993-21639956f3f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2FtcGxlfGVufDB8fDB8fHww"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4991,
+            "title": "qui ex iusto nemo",
+            "url": "https://images.unsplash.com/photo-1615220368123-9bb8faf4221b?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1615220368123-9bb8faf4221b?q=80&w=2015&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4992,
+            "title": "accusamus dolore enim quis necessitatibus voluptatibus",
+            "url": "https://images.unsplash.com/photo-1531361171768-37170e369163?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1531361171768-37170e369163?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4993,
+            "title": "est qui qui id fugit",
+            "url": "https://images.unsplash.com/photo-1602866813929-6bc4933c7013?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1602866813929-6bc4933c7013?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4994,
+            "title": "in vel error quas officiis repellendus commodi",
+            "url": "https://via.placeholder.com/600/6ffa50",
+            "thumbnailUrl": "https://via.placeholder.com/150/6ffa50"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4995,
+            "title": "sequi sunt enim aut at",
+            "url": "https://via.placeholder.com/600/e5109",
+            "thumbnailUrl": "https://via.placeholder.com/150/e5109"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4996,
+            "title": "voluptatem ab aliquam dolorum vel voluptas qui repellendus",
+            "url": "https://via.placeholder.com/600/b3db9a",
+            "thumbnailUrl": "https://via.placeholder.com/150/b3db9a"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4997,
+            "title": "sunt amet autem exercitationem fuga consequatur",
+            "url": "https://via.placeholder.com/600/13454b",
+            "thumbnailUrl": "https://via.placeholder.com/150/13454b"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4998,
+            "title": "qui quo cumque distinctio aut voluptas",
+            "url": "https://via.placeholder.com/600/315aa6",
+            "thumbnailUrl": "https://via.placeholder.com/150/315aa6"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 4999,
+            "title": "in voluptate sit officia non nesciunt quis",
+            "url": "https://via.placeholder.com/600/1b9d08",
+            "thumbnailUrl": "https://via.placeholder.com/150/1b9d08"
+        },
+        {
+            "postType": "images",
+            "albumId": 100,
+            "id": 5000,
+            "title": "error quasi sunt cupiditate voluptate ea odit beatae",
+            "url": "https://via.placeholder.com/600/6dd9cb",
+            "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
+        }
+    ]
+}
