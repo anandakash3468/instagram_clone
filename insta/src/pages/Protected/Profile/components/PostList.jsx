@@ -47,7 +47,8 @@ const PostList = () => {
                     <Grid container spacing={2}>
                         <Grid item xs={12} sm={12} md={6}>
                             {selectedPostType === "videos" ? (
-                                <ReactPlayer url={selectedImage} autoplay width="100%"  sx={{ height: '600px', overflowY: 'auto'}}/>
+                                <ReactPlayer controls url={selectedImage} autoplay width="100%" style={{ minHeight: "600px", maxHeight: "600px" }}  />
+                                
                             ) : (
                                 <img src={selectedImage} alt="Preview" style={{ maxWidth: '100%', minHeight:'600px', maxHeight:'600px' }} />
                             )}
